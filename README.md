@@ -55,7 +55,38 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@adnanh](https://github.com/adnanh) | 332 |
+| [@moorereason](https://github.com/moorereason) | 109 |
+| [@col-panic](https://github.com/col-panic) | 8 |
+| [@wyattjoh](https://github.com/wyattjoh) | 8 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
+| [@ivanpesin](https://github.com/ivanpesin) | 6 |
+| [@timhughes](https://github.com/timhughes) | 6 |
+| [@aioobe](https://github.com/aioobe) | 5 |
+| [@hassanbabaie](https://github.com/hassanbabaie) | 5 |
+| [@almir](https://github.com/almir) | 4 |
+| [@asood123](https://github.com/asood123) | 3 |
+| [@ianroberts](https://github.com/ianroberts) | 3 |
+| [@wrouesnel](https://github.com/wrouesnel) | 2 |
+| [@Tom-Hubrecht](https://github.com/Tom-Hubrecht) | 2 |
+| [@madddi](https://github.com/madddi) | 2 |
+| [@kevinlebrun](https://github.com/kevinlebrun) | 2 |
+| [@dexpota](https://github.com/dexpota) | 2 |
+| [@digvijay-y](https://github.com/digvijay-y) | 2 |
+| [@abhiram11](https://github.com/abhiram11) | 1 |
+| [@maznu](https://github.com/maznu) | 1 |
+| [@Maximization](https://github.com/Maximization) | 1 |
+| [@leggetter](https://github.com/leggetter) | 1 |
+| [@spmzt](https://github.com/spmzt) | 1 |
+| [@Prince-Mendiratta](https://github.com/Prince-Mendiratta) | 1 |
+| [@raphink](https://github.com/raphink) | 1 |
+| [@stblassitude](https://github.com/stblassitude) | 1 |
+| [@gitter-badger](https://github.com/gitter-badger) | 1 |
+| [@TheCatLady](https://github.com/TheCatLady) | 1 |
+| [@tomdess](https://github.com/tomdess) | 1 |
+| [@tonyyanga](https://github.com/tonyyanga) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
@@ -70,6 +101,8 @@ _Original project — no upstream influences recorded._
 _No additional resource files found._
 <!-- AI:end:resources -->
 
+## Accessibility
+
 <!-- AI:start:accessibility -->
 This repo uses automated accessibility auditing via `check-accessibility.yml`.
 
@@ -81,7 +114,8 @@ WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (lib
 
 Run the [Check Accessibility](https://github.com/Interested-Deving-1896/webhook/actions/workflows/check-accessibility.yml)
 workflow to generate the first report and accessibility artifacts.
-See [DOCS/accessibility.md](https://github.com/Interested-Deving-1896/webhook/blob/main/DOCS/accessibility.md) for the full reference.
+See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+for the underlying accessibility reference.
 <!-- AI:end:accessibility -->
 
 ## License
